@@ -32,6 +32,10 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
     )
     controller.moveSprite(mySprite)
 })
+controller.combos.attachCombo("dduuuuddalr", function () {
+    console.log("CHEATER")
+    info.changeScoreBy(69420)
+})
 controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
     animation.runImageAnimation(
     mySprite,
