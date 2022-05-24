@@ -1,0 +1,41 @@
+{
+    "uEo4A5j4Pfh9G`:eT8ZY": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiIiIAICL/LyIiIgAg8t//IiIiACDy3f0iIiIAIPLd/SIAAAAg8t39IgAAACDy3f0iIiIAIPLf/yIiIgAgIv8vIiIiAAAiIiIiIiIAAAAiIiIAAAAAACIiIgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SUS"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SUS go bye bye"
+    },
+    "image4": {
+        "data": "hwQQABAAAADd3d3d3d3d3R0RERERERHRHREREREREdEdERERERER0R0RERERERHRHREREREREdEdERERERER0R0RERERERHRHREREREREdEdERERERER0R0RERERERHRHREREREREdEdERERERER0R0RERERERHRHREREREREdHd3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiIiIiIgAgIj/j4iIiACA+N//iIiIAID43f2IiIgAgPjd/YgAAACA+N39iAAAAID43f2IiIgAgPjf/4iIiACAiP+PiIiIAACIiIiIiIgAAACIiIgAAAAAAIiIiAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "not sus left"
+    },
+    "weQ|uWX:#/vFjwvydk": {
+        "namespace": "I",
+        "id": "weQ|uWX:#/vFjwvydk",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAyMjIyMjIwMjAwMDAwMDIyMjIyMjIyMjIwMDAwMDAyMmZmZmZmZjIyMDAwMDAwZjJkZmRkZmQyZjIyMDAwMGYyZGRkZGRkMmYyMjAwMDBmMmRmZGRmZDJmMjIwMDAwMjJmZmZmZmYyMjIyMDAwMDIyMjIyMjIyMjIyMjAwMDAyMjIyMjIyMjIyMjIwMDAwMjIyMjAwMjIyMjAwMDAwMDIyMjIwMDIyMjIwMDAwMDAyMjIyMDAyMjIyMDAwMDAwMjIyMjAwMjIyMjAwMDA=",
+        "displayName": "SUS go left"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDEwMDAxMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMDIyMjIyMjAyMDAwMDAwMjIyMjIyMjIyMjAwMDAwMDIyZmZmZmZmMjIwMDAwMjJmMmRmZGRmZDJmMDAwMDIyZjJkZGRkZGQyZjAwMDAyMmYyZGZkZGZkMmYwMDAwMjIyMmZmZmZmZjIyMDAwMDIyMjIyMjIyMjIyMjAwMDAyMjIyMjIyMjIyMjIwMDAwMDAyMjIyMDAyMjIyMDAwMDAwMjIyMjAwMjIyMjAwMDAwMDIyMjIwMDIyMjIwMDAwMDAyMjIyMDAyMjIyMDA=",
+        "displayName": "SUS go right"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
