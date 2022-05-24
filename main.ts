@@ -33,7 +33,7 @@ controller.right.onEvent(ControllerButtonEvent.Pressed, function () {
     controller.moveSprite(mySprite)
 })
 controller.combos.attachCombo("dduuuuddalr", function () {
-    console.log("CHEATER")
+    console.log("" + game.runtime() + " CHEATER")
     info.changeScoreBy(69420)
 })
 controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
