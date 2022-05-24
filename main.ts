@@ -61,6 +61,5 @@ forever(function () {
     while (mySprite.overlapsWith(killme)) {
         tiles.placeOnRandomTile(killme, assets.tile`tile floor`)
         info.changeScoreBy(1)
-        console.log(info.highScore())
     }
 })
